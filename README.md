@@ -1,5 +1,7 @@
 # Home assistant Sun card
 Home assistant Sun card based on Google weather design
+# Copied from forked project thats archived.
+
 
 ## Preview
 ![Light mode preview](https://user-images.githubusercontent.com/6829526/118412152-54d93900-b690-11eb-8b2b-e87b4cbcca7f.png)
